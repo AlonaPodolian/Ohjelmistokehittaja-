@@ -1,0 +1,14 @@
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\If-Else harjoituksia\bin\Debug\net10.0\If-Else harjoituksia.exe
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\If-Else harjoituksia\bin\Debug\net10.0\If-Else harjoituksia.deps.json
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\If-Else harjoituksia\bin\Debug\net10.0\If-Else harjoituksia.runtimeconfig.json
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\If-Else harjoituksia\bin\Debug\net10.0\If-Else harjoituksia.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\If-Else harjoituksia\bin\Debug\net10.0\If-Else harjoituksia.pdb
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\If-Else harjoituksia\obj\Debug\net10.0\If-Else harjoituksia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\If-Else harjoituksia\obj\Debug\net10.0\If-Else harjoituksia.AssemblyInfoInputs.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\If-Else harjoituksia\obj\Debug\net10.0\If-Else harjoituksia.AssemblyInfo.cs
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\If-Else harjoituksia\obj\Debug\net10.0\If-Else harjoituksia.csproj.CoreCompileInputs.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\If-Else harjoituksia\obj\Debug\net10.0\If-Else harjoituksia.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\If-Else harjoituksia\obj\Debug\net10.0\refint\If-Else harjoituksia.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\If-Else harjoituksia\obj\Debug\net10.0\If-Else harjoituksia.pdb
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\If-Else harjoituksia\obj\Debug\net10.0\If-Else harjoituksia.genruntimeconfig.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\If-Else harjoituksia\obj\Debug\net10.0\ref\If-Else harjoituksia.dll
