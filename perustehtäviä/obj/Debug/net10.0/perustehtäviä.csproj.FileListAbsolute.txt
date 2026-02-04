@@ -1,0 +1,14 @@
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\perustehtäviä\bin\Debug\net10.0\perustehtäviä.exe
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\perustehtäviä\bin\Debug\net10.0\perustehtäviä.deps.json
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\perustehtäviä\bin\Debug\net10.0\perustehtäviä.runtimeconfig.json
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\perustehtäviä\bin\Debug\net10.0\perustehtäviä.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\perustehtäviä\bin\Debug\net10.0\perustehtäviä.pdb
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\perustehtäviä\obj\Debug\net10.0\perustehtäviä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\perustehtäviä\obj\Debug\net10.0\perustehtäviä.AssemblyInfoInputs.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\perustehtäviä\obj\Debug\net10.0\perustehtäviä.AssemblyInfo.cs
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\perustehtäviä\obj\Debug\net10.0\perustehtäviä.csproj.CoreCompileInputs.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\perustehtäviä\obj\Debug\net10.0\perustehtäviä.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\perustehtäviä\obj\Debug\net10.0\refint\perustehtäviä.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\perustehtäviä\obj\Debug\net10.0\perustehtäviä.pdb
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\perustehtäviä\obj\Debug\net10.0\perustehtäviä.genruntimeconfig.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\perustehtäviä\obj\Debug\net10.0\ref\perustehtäviä.dll
