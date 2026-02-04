@@ -1,0 +1,14 @@
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Dia19\Dia71\obj\Debug\net10.0\Dia71.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Dia19\Dia71\obj\Debug\net10.0\Dia71.AssemblyInfoInputs.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Dia19\Dia71\obj\Debug\net10.0\Dia71.AssemblyInfo.cs
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Dia19\Dia71\obj\Debug\net10.0\Dia71.csproj.CoreCompileInputs.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Dia19\Dia71\bin\Debug\net10.0\Dia71.exe
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Dia19\Dia71\bin\Debug\net10.0\Dia71.deps.json
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Dia19\Dia71\bin\Debug\net10.0\Dia71.runtimeconfig.json
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Dia19\Dia71\bin\Debug\net10.0\Dia71.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Dia19\Dia71\bin\Debug\net10.0\Dia71.pdb
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Dia19\Dia71\obj\Debug\net10.0\Dia71.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Dia19\Dia71\obj\Debug\net10.0\refint\Dia71.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Dia19\Dia71\obj\Debug\net10.0\Dia71.pdb
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Dia19\Dia71\obj\Debug\net10.0\Dia71.genruntimeconfig.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Dia19\Dia71\obj\Debug\net10.0\ref\Dia71.dll

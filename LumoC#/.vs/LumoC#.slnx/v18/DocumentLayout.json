@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alona\\source\\repos\\Ohjelmistokehittaja-\\LumoC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alona\\source\\repos\\Ohjelmistokehittaja-\\Dia19\\Dia.slnx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE8344C-B19E-B1D6-3F8B-F5A98110B191}|Silmukkaharjoituksia\\Silmukkaharjoituksia.csproj|c:\\users\\alona\\source\\repos\\ohjelmistokehittaja-\\lumoc#\\silmukkaharjoituksia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE8344C-B19E-B1D6-3F8B-F5A98110B191}|Silmukkaharjoituksia\\Silmukkaharjoituksia.csproj|solutionrelative:silmukkaharjoituksia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F822E65-53AC-2C0D-2826-D039FA0316A4}|If-Else harjoituksia\\If-Else harjoituksia.csproj|c:\\users\\alona\\source\\repos\\ohjelmistokehittaja-\\lumoc#\\if-else harjoituksia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F822E65-53AC-2C0D-2826-D039FA0316A4}|If-Else harjoituksia\\If-Else harjoituksia.csproj|solutionrelative:if-else harjoituksia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B99E90-63FF-02EA-DB22-2FE43F66357F}|perusteht\u00E4vi\u00E4\\perusteht\u00E4vi\u00E4.csproj|c:\\users\\alona\\source\\repos\\ohjelmistokehittaja-\\lumoc#\\perusteht\u00E4vi\u00E4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B99E90-63FF-02EA-DB22-2FE43F66357F}|perusteht\u00E4vi\u00E4\\perusteht\u00E4vi\u00E4.csproj|solutionrelative:perusteht\u00E4vi\u00E4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dia.slnx",
+              "DocumentMoniker": "C:\\Users\\alona\\source\\repos\\Ohjelmistokehittaja-\\Dia19\\Dia.slnx",
+              "RelativeDocumentMoniker": "..\\Dia19\\Dia.slnx",
+              "ToolTip": "C:\\Users\\alona\\source\\repos\\Ohjelmistokehittaja-\\Dia19\\Dia.slnx",
+              "RelativeToolTip": "..\\Dia19\\Dia.slnx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002855|",
+              "WhenOpened": "2026-02-04T06:54:50.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alona\\source\\repos\\Ohjelmistokehittaja-\\LumoC#\\Silmukkaharjoituksia\\Program.cs",
+              "RelativeDocumentMoniker": "Silmukkaharjoituksia\\Program.cs",
+              "ToolTip": "C:\\Users\\alona\\source\\repos\\Ohjelmistokehittaja-\\LumoC#\\Silmukkaharjoituksia\\Program.cs",
+              "RelativeToolTip": "Silmukkaharjoituksia\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwEkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T06:57:53.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alona\\source\\repos\\Ohjelmistokehittaja-\\LumoC#\\If-Else harjoituksia\\Program.cs",
+              "RelativeDocumentMoniker": "If-Else harjoituksia\\Program.cs",
+              "ToolTip": "C:\\Users\\alona\\source\\repos\\Ohjelmistokehittaja-\\LumoC#\\If-Else harjoituksia\\Program.cs",
+              "RelativeToolTip": "If-Else harjoituksia\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwGQBAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T06:51:22.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alona\\source\\repos\\Ohjelmistokehittaja-\\LumoC#\\perusteht\u00E4vi\u00E4\\Program.cs",
+              "RelativeDocumentMoniker": "perusteht\u00E4vi\u00E4\\Program.cs",
+              "ToolTip": "C:\\Users\\alona\\source\\repos\\Ohjelmistokehittaja-\\LumoC#\\perusteht\u00E4vi\u00E4\\Program.cs",
+              "RelativeToolTip": "perusteht\u00E4vi\u00E4\\Program.cs",
+              "ViewState": "AgIAAAkBAAAAAAAAAAAQwBQBAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T08:31:25.214Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

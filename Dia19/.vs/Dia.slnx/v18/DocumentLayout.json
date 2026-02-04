@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alona\\source\\repos\\Ohjelmistokehittaja-\\Dia19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{434BCD5D-A1A0-4A81-978C-721ADFA115B0}|Dia19\\Dia19.csproj|c:\\users\\alona\\source\\repos\\ohjelmistokehittaja-\\dia19\\dia19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434BCD5D-A1A0-4A81-978C-721ADFA115B0}|Dia19\\Dia19.csproj|solutionrelative:dia19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73293BF6-4D2E-407A-9F33-EFC2A9A21D02}|Dia27\\Dia27.csproj|c:\\users\\alona\\source\\repos\\ohjelmistokehittaja-\\dia19\\dia27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73293BF6-4D2E-407A-9F33-EFC2A9A21D02}|Dia27\\Dia27.csproj|solutionrelative:dia27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alona\\source\\repos\\Ohjelmistokehittaja-\\Dia19\\Dia27\\Program.cs",
+              "RelativeDocumentMoniker": "Dia27\\Program.cs",
+              "ToolTip": "C:\\Users\\alona\\source\\repos\\Ohjelmistokehittaja-\\Dia19\\Dia27\\Program.cs",
+              "RelativeToolTip": "Dia27\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwPIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T10:59:10.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alona\\source\\repos\\Ohjelmistokehittaja-\\Dia19\\Dia19\\Program.cs",
+              "RelativeDocumentMoniker": "Dia19\\Program.cs",
+              "ToolTip": "C:\\Users\\alona\\source\\repos\\Ohjelmistokehittaja-\\Dia19\\Dia19\\Program.cs",
+              "RelativeToolTip": "Dia19\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:57:57.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\LumoC#\bin\Debug\net10.0\LumoC#.exe
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\LumoC#\bin\Debug\net10.0\LumoC#.deps.json
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\LumoC#\bin\Debug\net10.0\LumoC#.runtimeconfig.json
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\LumoC#\bin\Debug\net10.0\LumoC#.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\LumoC#\bin\Debug\net10.0\LumoC#.pdb
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\LumoC#\obj\Debug\net10.0\LumoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\LumoC#\obj\Debug\net10.0\LumoC#.AssemblyInfoInputs.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\LumoC#\obj\Debug\net10.0\LumoC#.AssemblyInfo.cs
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\LumoC#\obj\Debug\net10.0\LumoC#.csproj.CoreCompileInputs.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\LumoC#\obj\Debug\net10.0\LumoC#.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\LumoC#\obj\Debug\net10.0\refint\LumoC#.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\LumoC#\obj\Debug\net10.0\LumoC#.pdb
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\LumoC#\obj\Debug\net10.0\LumoC#.genruntimeconfig.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\LumoC#\LumoC#\obj\Debug\net10.0\ref\LumoC#.dll

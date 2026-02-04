@@ -1,0 +1,16 @@
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Harjoitus4\Harjoitus4\bin\Debug\net10.0-windows\Harjoitus4.exe
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Harjoitus4\Harjoitus4\bin\Debug\net10.0-windows\Harjoitus4.deps.json
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Harjoitus4\Harjoitus4\bin\Debug\net10.0-windows\Harjoitus4.runtimeconfig.json
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Harjoitus4\Harjoitus4\bin\Debug\net10.0-windows\Harjoitus4.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Harjoitus4\Harjoitus4\bin\Debug\net10.0-windows\Harjoitus4.pdb
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Harjoitus4\Harjoitus4\obj\Debug\net10.0-windows\Harjoitus4.Form1.resources
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Harjoitus4\Harjoitus4\obj\Debug\net10.0-windows\Harjoitus4.csproj.GenerateResource.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Harjoitus4\Harjoitus4\obj\Debug\net10.0-windows\Harjoitus4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Harjoitus4\Harjoitus4\obj\Debug\net10.0-windows\Harjoitus4.AssemblyInfoInputs.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Harjoitus4\Harjoitus4\obj\Debug\net10.0-windows\Harjoitus4.AssemblyInfo.cs
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Harjoitus4\Harjoitus4\obj\Debug\net10.0-windows\Harjoitus4.csproj.CoreCompileInputs.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Harjoitus4\Harjoitus4\obj\Debug\net10.0-windows\Harjoitus4.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Harjoitus4\Harjoitus4\obj\Debug\net10.0-windows\refint\Harjoitus4.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Harjoitus4\Harjoitus4\obj\Debug\net10.0-windows\Harjoitus4.pdb
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Harjoitus4\Harjoitus4\obj\Debug\net10.0-windows\Harjoitus4.genruntimeconfig.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Harjoitus4\Harjoitus4\obj\Debug\net10.0-windows\ref\Harjoitus4.dll
