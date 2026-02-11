@@ -1,0 +1,17 @@
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä7\Tehtävä7\obj\Debug\net10.0-windows\Tehtävä7.Form1.resources
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä7\Tehtävä7\obj\Debug\net10.0-windows\Tehtävä7.csproj.GenerateResource.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä7\Tehtävä7\obj\Debug\net10.0-windows\Tehtävä7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä7\Tehtävä7\obj\Debug\net10.0-windows\Tehtävä7.AssemblyInfoInputs.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä7\Tehtävä7\obj\Debug\net10.0-windows\Tehtävä7.AssemblyInfo.cs
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä7\Tehtävä7\obj\Debug\net10.0-windows\Tehtävä7.csproj.CoreCompileInputs.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä7\Tehtävä7\obj\Debug\net10.0-windows\Tehtävä7.sourcelink.json
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä7\Tehtävä7\bin\Debug\net10.0-windows\Tehtävä7.exe
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä7\Tehtävä7\bin\Debug\net10.0-windows\Tehtävä7.deps.json
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä7\Tehtävä7\bin\Debug\net10.0-windows\Tehtävä7.runtimeconfig.json
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä7\Tehtävä7\bin\Debug\net10.0-windows\Tehtävä7.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä7\Tehtävä7\bin\Debug\net10.0-windows\Tehtävä7.pdb
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä7\Tehtävä7\obj\Debug\net10.0-windows\Tehtävä7.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä7\Tehtävä7\obj\Debug\net10.0-windows\refint\Tehtävä7.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä7\Tehtävä7\obj\Debug\net10.0-windows\Tehtävä7.pdb
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä7\Tehtävä7\obj\Debug\net10.0-windows\Tehtävä7.genruntimeconfig.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä7\Tehtävä7\obj\Debug\net10.0-windows\ref\Tehtävä7.dll
