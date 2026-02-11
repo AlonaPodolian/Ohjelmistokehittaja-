@@ -1,0 +1,17 @@
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä15\Tehtävä15\bin\Debug\net10.0-windows\Tehtävä15.exe
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä15\Tehtävä15\bin\Debug\net10.0-windows\Tehtävä15.deps.json
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä15\Tehtävä15\bin\Debug\net10.0-windows\Tehtävä15.runtimeconfig.json
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä15\Tehtävä15\bin\Debug\net10.0-windows\Tehtävä15.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä15\Tehtävä15\bin\Debug\net10.0-windows\Tehtävä15.pdb
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä15\Tehtävä15\obj\Debug\net10.0-windows\Tehtävä15.form.resources
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä15\Tehtävä15\obj\Debug\net10.0-windows\Tehtävä15.csproj.GenerateResource.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä15\Tehtävä15\obj\Debug\net10.0-windows\Tehtävä15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä15\Tehtävä15\obj\Debug\net10.0-windows\Tehtävä15.AssemblyInfoInputs.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä15\Tehtävä15\obj\Debug\net10.0-windows\Tehtävä15.AssemblyInfo.cs
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä15\Tehtävä15\obj\Debug\net10.0-windows\Tehtävä15.csproj.CoreCompileInputs.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä15\Tehtävä15\obj\Debug\net10.0-windows\Tehtävä15.sourcelink.json
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä15\Tehtävä15\obj\Debug\net10.0-windows\Tehtävä15.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä15\Tehtävä15\obj\Debug\net10.0-windows\refint\Tehtävä15.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä15\Tehtävä15\obj\Debug\net10.0-windows\Tehtävä15.pdb
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä15\Tehtävä15\obj\Debug\net10.0-windows\Tehtävä15.genruntimeconfig.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä15\Tehtävä15\obj\Debug\net10.0-windows\ref\Tehtävä15.dll
