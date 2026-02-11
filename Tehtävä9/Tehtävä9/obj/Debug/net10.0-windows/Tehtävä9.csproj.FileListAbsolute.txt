@@ -1,0 +1,17 @@
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä9\Tehtävä9\bin\Debug\net10.0-windows\Tehtävä9.exe
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä9\Tehtävä9\bin\Debug\net10.0-windows\Tehtävä9.deps.json
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä9\Tehtävä9\bin\Debug\net10.0-windows\Tehtävä9.runtimeconfig.json
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä9\Tehtävä9\bin\Debug\net10.0-windows\Tehtävä9.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä9\Tehtävä9\bin\Debug\net10.0-windows\Tehtävä9.pdb
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä9\Tehtävä9\obj\Debug\net10.0-windows\Tehtävä9.Form1.resources
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä9\Tehtävä9\obj\Debug\net10.0-windows\Tehtävä9.csproj.GenerateResource.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä9\Tehtävä9\obj\Debug\net10.0-windows\Tehtävä9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä9\Tehtävä9\obj\Debug\net10.0-windows\Tehtävä9.AssemblyInfoInputs.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä9\Tehtävä9\obj\Debug\net10.0-windows\Tehtävä9.AssemblyInfo.cs
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä9\Tehtävä9\obj\Debug\net10.0-windows\Tehtävä9.csproj.CoreCompileInputs.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä9\Tehtävä9\obj\Debug\net10.0-windows\Tehtävä9.sourcelink.json
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä9\Tehtävä9\obj\Debug\net10.0-windows\Tehtävä9.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä9\Tehtävä9\obj\Debug\net10.0-windows\refint\Tehtävä9.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä9\Tehtävä9\obj\Debug\net10.0-windows\Tehtävä9.pdb
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä9\Tehtävä9\obj\Debug\net10.0-windows\Tehtävä9.genruntimeconfig.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä9\Tehtävä9\obj\Debug\net10.0-windows\ref\Tehtävä9.dll
