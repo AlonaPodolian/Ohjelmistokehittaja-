@@ -1,0 +1,17 @@
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä13\Tehtävä13\bin\Debug\net10.0-windows\Tehtävä13.exe
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä13\Tehtävä13\bin\Debug\net10.0-windows\Tehtävä13.deps.json
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä13\Tehtävä13\bin\Debug\net10.0-windows\Tehtävä13.runtimeconfig.json
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä13\Tehtävä13\bin\Debug\net10.0-windows\Tehtävä13.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä13\Tehtävä13\bin\Debug\net10.0-windows\Tehtävä13.pdb
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä13\Tehtävä13\obj\Debug\net10.0-windows\Tehtävä13.suosikitFM.resources
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä13\Tehtävä13\obj\Debug\net10.0-windows\Tehtävä13.csproj.GenerateResource.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä13\Tehtävä13\obj\Debug\net10.0-windows\Tehtävä13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä13\Tehtävä13\obj\Debug\net10.0-windows\Tehtävä13.AssemblyInfoInputs.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä13\Tehtävä13\obj\Debug\net10.0-windows\Tehtävä13.AssemblyInfo.cs
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä13\Tehtävä13\obj\Debug\net10.0-windows\Tehtävä13.csproj.CoreCompileInputs.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä13\Tehtävä13\obj\Debug\net10.0-windows\Tehtävä13.sourcelink.json
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä13\Tehtävä13\obj\Debug\net10.0-windows\Tehtävä13.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä13\Tehtävä13\obj\Debug\net10.0-windows\refint\Tehtävä13.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä13\Tehtävä13\obj\Debug\net10.0-windows\Tehtävä13.pdb
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä13\Tehtävä13\obj\Debug\net10.0-windows\Tehtävä13.genruntimeconfig.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä13\Tehtävä13\obj\Debug\net10.0-windows\ref\Tehtävä13.dll
