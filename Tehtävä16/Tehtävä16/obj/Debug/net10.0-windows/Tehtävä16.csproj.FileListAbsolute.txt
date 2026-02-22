@@ -1,0 +1,17 @@
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä16\Tehtävä16\bin\Debug\net10.0-windows\Tehtävä16.exe
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä16\Tehtävä16\bin\Debug\net10.0-windows\Tehtävä16.deps.json
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä16\Tehtävä16\bin\Debug\net10.0-windows\Tehtävä16.runtimeconfig.json
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä16\Tehtävä16\bin\Debug\net10.0-windows\Tehtävä16.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä16\Tehtävä16\bin\Debug\net10.0-windows\Tehtävä16.pdb
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä16\Tehtävä16\obj\Debug\net10.0-windows\Tehtävä16.stopBT.resources
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä16\Tehtävä16\obj\Debug\net10.0-windows\Tehtävä16.csproj.GenerateResource.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä16\Tehtävä16\obj\Debug\net10.0-windows\Tehtävä16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä16\Tehtävä16\obj\Debug\net10.0-windows\Tehtävä16.AssemblyInfoInputs.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä16\Tehtävä16\obj\Debug\net10.0-windows\Tehtävä16.AssemblyInfo.cs
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä16\Tehtävä16\obj\Debug\net10.0-windows\Tehtävä16.csproj.CoreCompileInputs.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä16\Tehtävä16\obj\Debug\net10.0-windows\Tehtävä16.sourcelink.json
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä16\Tehtävä16\obj\Debug\net10.0-windows\Tehtävä16.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä16\Tehtävä16\obj\Debug\net10.0-windows\refint\Tehtävä16.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä16\Tehtävä16\obj\Debug\net10.0-windows\Tehtävä16.pdb
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä16\Tehtävä16\obj\Debug\net10.0-windows\Tehtävä16.genruntimeconfig.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Tehtävä16\Tehtävä16\obj\Debug\net10.0-windows\ref\Tehtävä16.dll
