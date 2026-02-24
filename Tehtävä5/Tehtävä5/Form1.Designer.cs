@@ -36,38 +36,44 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(46, 30);
+            label1.Location = new Point(27, 46);
+            label1.Margin = new Padding(4, 0, 4, 0);
             label1.Name = "label1";
-            label1.Size = new Size(211, 25);
+            label1.Size = new Size(327, 38);
             label1.TabIndex = 0;
             label1.Text = "Anna luku (-999 lopetus):";
             // 
             // uusiLukuTB
             // 
-            uusiLukuTB.Location = new Point(272, 33);
+            uusiLukuTB.Location = new Point(362, 46);
+            uusiLukuTB.Margin = new Padding(4, 5, 4, 5);
             uusiLukuTB.Name = "uusiLukuTB";
-            uusiLukuTB.Size = new Size(150, 31);
+            uusiLukuTB.Size = new Size(236, 45);
             uusiLukuTB.TabIndex = 1;
+            uusiLukuTB.TextChanged += uusiLukuTB_TextChanged;
             uusiLukuTB.KeyPress += uusiLukuTB_KeyPress;
             // 
             // VastausLB
             // 
             VastausLB.AutoSize = true;
-            VastausLB.Location = new Point(58, 75);
+            VastausLB.Location = new Point(27, 101);
+            VastausLB.Margin = new Padding(4, 0, 4, 0);
             VastausLB.Name = "VastausLB";
-            VastausLB.Size = new Size(59, 25);
+            VastausLB.Size = new Size(109, 38);
             VastausLB.TabIndex = 2;
-            VastausLB.Text = "label2";
+            VastausLB.Text = "Vastaus";
             VastausLB.Visible = false;
             // 
             // LukujenJarjestys
             // 
-            AutoScaleDimensions = new SizeF(10F, 25F);
+            AutoScaleDimensions = new SizeF(15F, 38F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1011, 476);
+            ClientSize = new Size(636, 189);
             Controls.Add(VastausLB);
             Controls.Add(uusiLukuTB);
             Controls.Add(label1);
+            Font = new Font("Segoe UI", 14F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            Margin = new Padding(4, 5, 4, 5);
             Name = "LukujenJarjestys";
             Text = "LukujenJarjestys";
             ResumeLayout(false);

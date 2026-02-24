@@ -14,25 +14,24 @@ namespace Tehtävä5
         {
             if (e.KeyChar == (char)Keys.Enter)
             {
-                if (luvutTB.Text = ".999")
+                if (uusiLukuTB.Text == "-999")
                 {
                     VastausLB.Text = "";
-                    luvutTB.Text = "";
-                    int[] taulu = jono.ToArray();
-                    Array.Sort(taulu);
-                    foreach (int luku in taulu)
+                    int[] taulukko = jono.ToArray();
+                    Array.Sort(taulukko);
+                    foreach (var jasen in taulukko)
                     {
-                        VastausLB.Text += luku.ToString() + " ";
+                        VastausLB.Text += jasen + " ";
                     }
                     VastausLB.Visible = true;
                 }
                 else
                 {
-                    jono.Add(int.Parse(luvutLB.Text));
-                    luvutTB.Text = " ";
+                    jono.Add(Int32.Parse(uusiLukuTB.Text));
+                    uusiLukuTB.Text = "";
                 }
             }
-            else if (e.KeyChar == (char)Keys.Escape) 
+            if (e.KeyChar == (char)Keys.Escape)
             {
                 TyhjaaLomake();
             }
@@ -40,8 +39,12 @@ namespace Tehtävä5
         }
         private void TyhjaaLomake()
         {
-            luvutTB.Text = " ";
+            uusiLukuTB.Text = " ";
         }
-        
+
+        private void uusiLukuTB_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
