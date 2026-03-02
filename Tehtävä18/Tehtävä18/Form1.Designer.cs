@@ -78,8 +78,7 @@
             vastuuhloCB.Name = "vastuuhloCB";
             vastuuhloCB.Size = new Size(333, 46);
             vastuuhloCB.TabIndex = 4;
-            vastuuhloCB.SelectedIndexChanged += oppilaitosCB_SelectedIndexChanged;
-            vastuuhloCB.TextChanged += vastuuhloCB_TextChanged;
+            vastuuhloCB.SelectedIndexChanged += vastuuhloCB_SelectedIndexChanged;
             // 
             // label3
             // 

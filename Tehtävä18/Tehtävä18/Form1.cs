@@ -79,7 +79,7 @@ namespace Tehtävä18
             vastuuHenkilot.Rows.Add(4, "Maarit Flinck", "Asianhallintapäällikkö", "Hallinto- ja johtamispalvelut", "maarit.flinck@keuda.fi", "0500 837 357");
         }
 
-        private void vastuuhloCB_TextChanged(object sender, EventArgs e)
+        private void vastuuhloCB_SelectedIndexChanged(object sender, EventArgs e)
         {
             TitteliLB.Text = yhteys.Rows[vastuuhloCB.SelectedIndex]["VTitteli"].ToString();
             OsastoLB.Text = yhteys.Rows[vastuuhloCB.SelectedIndex]["VOsasto"].ToString();
