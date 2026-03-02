@@ -4,7 +4,7 @@ namespace Tehtävä17
 {
     public partial class MuistiFM : Form
     {
-        string tiedostopolku = " ";
+        string tiedostopolku = "";
         public MuistiFM()
         {
             InitializeComponent();
@@ -163,14 +163,14 @@ namespace Tehtävä17
 
         private void tekstinRivittysToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            if (tekstinKorostusToolStripMenuItem.Checked == true)
+            if (tekstinRivittysToolStripMenuItem.Checked == true)
             {
-                tekstinKorostusToolStripMenuItem.Checked = false;
+                tekstinRivittysToolStripMenuItem.Checked = false;
                 rikasTB.WordWrap = false;
             }
             else
             {
-                tekstinKorostusToolStripMenuItem.Checked = true;
+                tekstinRivittysToolStripMenuItem.Checked = true;
                 rikasTB.WordWrap = true;
             }
         }
