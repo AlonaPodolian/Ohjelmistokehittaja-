@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Text;
+using System.Windows.Forms;
+
+namespace Csharp_Hotel_System
+{
+    public partial class ManageRoomsForm : Form
+    {
+        public ManageRoomsForm()
+        {
+            InitializeComponent();
+        }
+    }
+}
