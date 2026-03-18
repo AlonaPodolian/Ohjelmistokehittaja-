@@ -111,7 +111,6 @@
             PasswordTB.Name = "PasswordTB";
             PasswordTB.Size = new Size(263, 44);
             PasswordTB.TabIndex = 3;
-            PasswordTB.Text = "admin";
             PasswordTB.UseSystemPasswordChar = true;
             // 
             // label3
@@ -132,7 +131,6 @@
             UsernameTB.Name = "UsernameTB";
             UsernameTB.Size = new Size(263, 44);
             UsernameTB.TabIndex = 1;
-            UsernameTB.Text = "admin";
             // 
             // label2
             // 

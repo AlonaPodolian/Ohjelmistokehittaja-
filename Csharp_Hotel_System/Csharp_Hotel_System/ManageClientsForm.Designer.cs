@@ -31,10 +31,10 @@
             panel1 = new Panel();
             panel3 = new Panel();
             panel5 = new Panel();
-            button4 = new Button();
-            button3 = new Button();
-            button2 = new Button();
-            button1 = new Button();
+            buttonClear = new Button();
+            buttonRemoveClient = new Button();
+            buttonEditClient = new Button();
+            buttonAddClient = new Button();
             dataGridView1 = new DataGridView();
             textBoxCountry = new TextBox();
             label10 = new Label();
@@ -94,10 +94,10 @@
             // panel5
             // 
             panel5.BackColor = Color.FromArgb(255, 102, 0);
-            panel5.Controls.Add(button4);
-            panel5.Controls.Add(button3);
-            panel5.Controls.Add(button2);
-            panel5.Controls.Add(button1);
+            panel5.Controls.Add(buttonClear);
+            panel5.Controls.Add(buttonRemoveClient);
+            panel5.Controls.Add(buttonEditClient);
+            panel5.Controls.Add(buttonAddClient);
             panel5.Controls.Add(dataGridView1);
             panel5.Controls.Add(textBoxCountry);
             panel5.Controls.Add(label10);
@@ -116,48 +116,49 @@
             panel5.Size = new Size(1115, 615);
             panel5.TabIndex = 3;
             // 
-            // button4
+            // buttonClear
             // 
-            button4.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            button4.Location = new Point(12, 530);
-            button4.Name = "button4";
-            button4.Size = new Size(450, 57);
-            button4.TabIndex = 15;
-            button4.Text = "Clear Fields";
-            button4.UseVisualStyleBackColor = true;
-            button4.Click += button4_Click;
+            buttonClear.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            buttonClear.Location = new Point(12, 530);
+            buttonClear.Name = "buttonClear";
+            buttonClear.Size = new Size(450, 57);
+            buttonClear.TabIndex = 15;
+            buttonClear.Text = "Clear Fields";
+            buttonClear.UseVisualStyleBackColor = true;
+            buttonClear.Click += buttonClear_Click;
             // 
-            // button3
+            // buttonRemoveClient
             // 
-            button3.Font = new Font("Segoe UI", 12F);
-            button3.Location = new Point(334, 460);
-            button3.Name = "button3";
-            button3.Size = new Size(128, 51);
-            button3.TabIndex = 14;
-            button3.Text = "Remove";
-            button3.UseVisualStyleBackColor = true;
+            buttonRemoveClient.Font = new Font("Segoe UI", 12F);
+            buttonRemoveClient.Location = new Point(334, 460);
+            buttonRemoveClient.Name = "buttonRemoveClient";
+            buttonRemoveClient.Size = new Size(128, 51);
+            buttonRemoveClient.TabIndex = 14;
+            buttonRemoveClient.Text = "Remove";
+            buttonRemoveClient.UseVisualStyleBackColor = true;
+            buttonRemoveClient.Click += buttonRemoveClient_Click;
             // 
-            // button2
+            // buttonEditClient
             // 
-            button2.Font = new Font("Segoe UI", 12F);
-            button2.Location = new Point(214, 460);
-            button2.Name = "button2";
-            button2.Size = new Size(114, 51);
-            button2.TabIndex = 13;
-            button2.Text = "Edit";
-            button2.UseVisualStyleBackColor = true;
-            button2.Click += button2_Click;
+            buttonEditClient.Font = new Font("Segoe UI", 12F);
+            buttonEditClient.Location = new Point(214, 460);
+            buttonEditClient.Name = "buttonEditClient";
+            buttonEditClient.Size = new Size(114, 51);
+            buttonEditClient.TabIndex = 13;
+            buttonEditClient.Text = "Edit";
+            buttonEditClient.UseVisualStyleBackColor = true;
+            buttonEditClient.Click += buttonEditClient_Click;
             // 
-            // button1
+            // buttonAddClient
             // 
-            button1.Font = new Font("Segoe UI", 12F);
-            button1.Location = new Point(12, 460);
-            button1.Name = "button1";
-            button1.Size = new Size(196, 51);
-            button1.TabIndex = 12;
-            button1.Text = "Add New Client";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
+            buttonAddClient.Font = new Font("Segoe UI", 12F);
+            buttonAddClient.Location = new Point(12, 460);
+            buttonAddClient.Name = "buttonAddClient";
+            buttonAddClient.Size = new Size(196, 51);
+            buttonAddClient.TabIndex = 12;
+            buttonAddClient.Text = "Add New Client";
+            buttonAddClient.UseVisualStyleBackColor = true;
+            buttonAddClient.Click += buttonAddClient_Click;
             // 
             // dataGridView1
             // 
@@ -170,6 +171,7 @@
             dataGridView1.RowHeadersWidth = 62;
             dataGridView1.Size = new Size(580, 458);
             dataGridView1.TabIndex = 11;
+            dataGridView1.CellClick += dataGridView1_CellClick;
             // 
             // textBoxCountry
             // 
@@ -248,9 +250,9 @@
             textBoxID.Font = new Font("Microsoft Sans Serif", 14F);
             textBoxID.Location = new Point(208, 130);
             textBoxID.Name = "textBoxID";
+            textBoxID.ReadOnly = true;
             textBoxID.Size = new Size(254, 39);
             textBoxID.TabIndex = 2;
-            textBoxID.TextChanged += textBoxID_TextChanged;
             // 
             // label5
             // 
@@ -329,7 +331,6 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(285, 39);
             textBox1.TabIndex = 2;
-            textBox1.TextChanged += textBox1_TextChanged;
             // 
             // label2
             // 
@@ -411,9 +412,9 @@
         private Panel panel4;
         private Label label4;
         private DataGridView dataGridView1;
-        private Button button4;
-        private Button button3;
-        private Button button2;
-        private Button button1;
+        private Button buttonClear;
+        private Button buttonRemoveClient;
+        private Button buttonEditClient;
+        private Button buttonAddClient;
     }
 }

@@ -61,7 +61,7 @@ namespace Csharp_Hotel_System
         public bool editClient(int id, String fname, String lname, String phone, String country)
         {
             MySqlCommand command = new MySqlCommand();
-            String editQuery = "UPDATE `clients` SET ,`first name` =@fnm,`last name`=@lnm,`phone`=@phn,`country`=@cnt WHERE `id`=@cid";
+            String editQuery = "UPDATE `clients` SET `first name` =@fnm,`last name`=@lnm,`phone`=@phn,`country`=@cnt WHERE `id`=@cid";
             command.CommandText = editQuery;
             command.Connection = conn.getConnection();
 
@@ -71,6 +71,32 @@ namespace Csharp_Hotel_System
             command.Parameters.Add("@lnm", MySqlDbType.VarChar).Value = lname;
             command.Parameters.Add("@phn", MySqlDbType.VarChar).Value = phone;
             command.Parameters.Add("@cnt", MySqlDbType.VarChar).Value = country;
+
+            conn.openConnection();
+
+            if (command.ExecuteNonQuery() == 1)
+            {
+                conn.closeConnection();
+                return true;
+            }
+            else
+            {
+                conn.closeConnection();
+                return false;
+            }
+        }
+
+        // create a unction to delete the selected client
+        // we only need the client id
+        public bool removeClient(int id)
+        {
+            MySqlCommand command = new MySqlCommand();
+            String removeQuery = "DELETE FROM `clients` WHERE `id`=@cid";
+            command.CommandText = removeQuery;
+            command.Connection = conn.getConnection();
+
+            // @cid
+            command.Parameters.Add("@cid", MySqlDbType.Int32).Value = id;
 
             conn.openConnection();
 
