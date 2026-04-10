@@ -10,8 +10,8 @@ This is a simple Pizza Ordering System built with C# and Windows Forms.
 - Print receipt 🧾
 
 ## Demo Login
-Username: admin  
-Password: admin  
+Username: User
+Password: Pass 
 
 ## Technologies
 - C#
