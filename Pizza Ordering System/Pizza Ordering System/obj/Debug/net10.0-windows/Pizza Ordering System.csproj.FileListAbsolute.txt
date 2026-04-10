@@ -1,0 +1,61 @@
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\Pizza Ordering System.exe
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\Pizza Ordering System.deps.json
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\Pizza Ordering System.runtimeconfig.json
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\Pizza Ordering System.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\Pizza Ordering System.pdb
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\Guna.UI2.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\System.Management.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\obj\Debug\net10.0-windows\Pizza Ordering System.csproj.AssemblyReference.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\obj\Debug\net10.0-windows\Pizza_Ordering_System.Billing.resources
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\obj\Debug\net10.0-windows\Pizza_Ordering_System.Login.resources
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\obj\Debug\net10.0-windows\Pizza_Ordering_System.Properties.Resources.resources
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\obj\Debug\net10.0-windows\Pizza Ordering System.csproj.GenerateResource.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\obj\Debug\net10.0-windows\Pizza Ordering System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\obj\Debug\net10.0-windows\Pizza Ordering System.AssemblyInfoInputs.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\obj\Debug\net10.0-windows\Pizza Ordering System.AssemblyInfo.cs
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\obj\Debug\net10.0-windows\Pizza Ordering System.csproj.CoreCompileInputs.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\obj\Debug\net10.0-windows\Pizza Ordering System.sourcelink.json
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\obj\Debug\net10.0-windows\Pizza Or.D8F30D4C.Up2Date
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\obj\Debug\net10.0-windows\Pizza Ordering System.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\obj\Debug\net10.0-windows\refint\Pizza Ordering System.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\obj\Debug\net10.0-windows\Pizza Ordering System.pdb
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\obj\Debug\net10.0-windows\Pizza Ordering System.genruntimeconfig.cache
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\obj\Debug\net10.0-windows\ref\Pizza Ordering System.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\obj\Debug\net10.0-windows\Pizza_Ordering_System.Settings.resources
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alona\source\repos\Ohjelmistokehittaja-\Pizza Ordering System\Pizza Ordering System\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
